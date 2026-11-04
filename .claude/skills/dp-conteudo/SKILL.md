@@ -10,7 +10,7 @@ A página tem dois objetivos: **ensinar DP de forma simples** e **vender as plan
 
 ## Dados da página (atualize quando a Keiti decidir)
 
-- **@ da página:** ainda não definido — use `@dpdescomplicado` como provisório e avise que é provisório.
+- **@ da página:** `@dpexpress` (nome de exibição sugerido: "DP Express | Dicas e Planilhas de DP").
 - **Público:** analistas e assistentes de DP, auxiliares de escritório contábil, donos de pequenas empresas, MEIs com funcionário, estudantes de RH/contabilidade.
 - **Tom de voz:** próximo, didático e confiável. Português do Brasil, frases curtas, sem juridiquês. Pode usar emojis com moderação (📊 ✅ ⚠️ 👉 💡).
 - **Link de venda:** "link na bio" (até a Keiti informar o link real da Hotmart/Kiwify).
@@ -91,7 +91,7 @@ Quando pedirem "pauta da semana", "calendário" ou quando rodar pela tarefa agen
 Quando pedirem a arte (ou na tarefa agendada, para os carrosséis/posts):
 
 - Use o conector do Canva para criar um **Instagram post (1080x1350)** por slide/post.
-- Identidade visual padrão (até a Keiti criar um Brand Kit): fundo claro, azul-petróleo `#0F4C5C` como cor principal, amarelo `#F2B705` para destaques, texto escuro `#1E1E1E`, fonte sem serifa e bem legível, ícones simples de planilha/calendário/calculadora.
+- Identidade visual padrão (até a Keiti criar um Brand Kit da DP Express): fundo claro, azul-petróleo `#0F4C5C` como cor principal, amarelo `#F2B705` para destaques, texto escuro `#1E1E1E`, fonte sem serifa e bem legível, ícones simples de planilha/calendário/calculadora.
 - Se existir um Brand Kit da página de DP no Canva, pergunte se deve usá-lo.
 - Coloque o texto do roteiro **exatamente** como escrito; capa com o gancho em destaque; último slide com CTA e o @ da página.
 - Entregue os links das artes para a Keiti revisar.
